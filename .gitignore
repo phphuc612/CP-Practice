@@ -3,6 +3,7 @@
 *.cbp
 *.depend
 *.layout
+.editorconfig
 main.cpp
 main
 out
